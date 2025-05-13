@@ -1,0 +1,22 @@
+C:\Users\PHILLIP\AppData\Local\Temporary Projects\SRH MANAGEMENT SYSTEM\bin\Debug\SRH MANAGEMENT SYSTEM.exe
+C:\Users\PHILLIP\AppData\Local\Temporary Projects\SRH MANAGEMENT SYSTEM\bin\Debug\SRH MANAGEMENT SYSTEM.pdb
+C:\Users\PHILLIP\AppData\Local\Temporary Projects\SRH MANAGEMENT SYSTEM\bin\Debug\SRH MANAGEMENT SYSTEM.xml
+C:\Users\PHILLIP\AppData\Local\Temporary Projects\SRH MANAGEMENT SYSTEM\obj\x86\Debug\SRH_MANAGEMENT_SYSTEM.Form1.resources
+C:\Users\PHILLIP\AppData\Local\Temporary Projects\SRH MANAGEMENT SYSTEM\obj\x86\Debug\SRH_MANAGEMENT_SYSTEM.Resources.resources
+C:\Users\PHILLIP\AppData\Local\Temporary Projects\SRH MANAGEMENT SYSTEM\obj\x86\Debug\SRH MANAGEMENT SYSTEM.vbproj.GenerateResource.Cache
+C:\Users\PHILLIP\AppData\Local\Temporary Projects\SRH MANAGEMENT SYSTEM\obj\x86\Debug\SRH MANAGEMENT SYSTEM.exe
+C:\Users\PHILLIP\AppData\Local\Temporary Projects\SRH MANAGEMENT SYSTEM\obj\x86\Debug\SRH MANAGEMENT SYSTEM.xml
+C:\Users\PHILLIP\AppData\Local\Temporary Projects\SRH MANAGEMENT SYSTEM\obj\x86\Debug\SRH MANAGEMENT SYSTEM.pdb
+C:\Users\PHILLIP\documents\visual studio 2010\Projects\SRH MANAGEMENT SYSTEM\SRH MANAGEMENT SYSTEM\obj\x86\Debug\SRH MANAGEMENT SYSTEM.exe
+C:\Users\PHILLIP\documents\visual studio 2010\Projects\SRH MANAGEMENT SYSTEM\SRH MANAGEMENT SYSTEM\obj\x86\Debug\SRH MANAGEMENT SYSTEM.xml
+C:\Users\PHILLIP\documents\visual studio 2010\Projects\SRH MANAGEMENT SYSTEM\SRH MANAGEMENT SYSTEM\obj\x86\Debug\SRH MANAGEMENT SYSTEM.pdb
+C:\Users\PHILLIP\documents\visual studio 2010\Projects\SRH MANAGEMENT SYSTEM\SRH MANAGEMENT SYSTEM\bin\Debug\SRH MANAGEMENT SYSTEM.exe
+C:\Users\PHILLIP\documents\visual studio 2010\Projects\SRH MANAGEMENT SYSTEM\SRH MANAGEMENT SYSTEM\bin\Debug\SRH MANAGEMENT SYSTEM.pdb
+C:\Users\PHILLIP\documents\visual studio 2010\Projects\SRH MANAGEMENT SYSTEM\SRH MANAGEMENT SYSTEM\bin\Debug\SRH MANAGEMENT SYSTEM.xml
+C:\Users\PHILLIP\documents\visual studio 2010\Projects\SRH MANAGEMENT SYSTEM\SRH MANAGEMENT SYSTEM\obj\x86\Debug\SRH_MANAGEMENT_SYSTEM.Search_Records.resources
+C:\Users\PHILLIP\documents\visual studio 2010\Projects\SRH MANAGEMENT SYSTEM\SRH MANAGEMENT SYSTEM\obj\x86\Debug\SRH_MANAGEMENT_SYSTEM.Switchboard.resources
+C:\Users\PHILLIP\documents\visual studio 2010\Projects\SRH MANAGEMENT SYSTEM\SRH MANAGEMENT SYSTEM\obj\x86\Debug\SRH_MANAGEMENT_SYSTEM.Resources.resources
+C:\Users\PHILLIP\documents\visual studio 2010\Projects\SRH MANAGEMENT SYSTEM\SRH MANAGEMENT SYSTEM\obj\x86\Debug\SRH MANAGEMENT SYSTEM.vbproj.GenerateResource.Cache
+C:\Users\PHILLIP\documents\visual studio 2010\Projects\SRH MANAGEMENT SYSTEM\SRH MANAGEMENT SYSTEM\obj\x86\Debug\SRH_MANAGEMENT_SYSTEM.Enrolment.resources
+C:\Users\PHILLIP\documents\visual studio 2010\Projects\SRH MANAGEMENT SYSTEM\SRH MANAGEMENT SYSTEM\bin\Debug\SRH MANAGEMENT SYSTEM.exe.config
+C:\Users\PHILLIP\Documents\Visual Studio 2010\Projects\SRH MANAGEMENT SYSTEM\SRH MANAGEMENT SYSTEM\bin\Debug\EMPLOYEE HEALTH MANAGEMENT SYSTEM.exe.config
